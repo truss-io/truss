@@ -1,5 +1,5 @@
-![Truss Rack Framework](http://cambelt.co/830x120?text=Truss "Truss Rack Framework")
-
+![Truss Rack Framework](https://cambelt.herokuapp.com/830x120?text=Truss&font=Governor&color=222222,dddddd "Truss Rack Framework")
+https://cambelt.herokuapp.com/330x160/Secure?
 # Truss
 
 Truss is a Rack-based Ruby application framework, targetted for developing actions as highly performant Rack endpoints with a nice DSL.
