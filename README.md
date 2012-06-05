@@ -1,6 +1,6 @@
 # Truss
 
-TODO: Write a gem description
+Truss is a Rack-based Ruby application framework, targetted for developing actions as highly performant Rack endpoints with a nice DSL.
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Usage information will follow soon, just as soon as this actually does something, I suppose...
 
 ## Contributing
 
